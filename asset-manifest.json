@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff501d03.css",
+    "main.js": "/static/js/main.255ac318.js",
+    "static/js/787.f5cd5acb.chunk.js": "/static/js/787.f5cd5acb.chunk.js",
+    "static/media/neti.png": "/static/media/neti.d469b349df87f74c344c.png",
+    "static/media/slu.jpg": "/static/media/slu.858a559efc5e6bf4373b.jpg",
+    "static/media/my.jpg": "/static/media/my.455caab843bacf4cdfaf.jpg",
+    "static/media/P3021961.jpeg": "/static/media/P3021961.22f74877022b3c8e0794.jpeg",
+    "static/media/mule.jpg": "/static/media/mule.77d9fa64d6914686af26.jpg",
+    "static/media/icons8-nodejs.svg": "/static/media/icons8-nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/icons8-react-native.svg": "/static/media/icons8-react-native.a060cbe85e50deda1d61452cee9de5b2.svg",
+    "static/media/icons8-javascript.svg": "/static/media/icons8-javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/index.html",
+    "static/media/icons8-visual-studio-code-2019.svg": "/static/media/icons8-visual-studio-code-2019.c95ccce217b9216b765737214d743d02.svg",
+    "static/media/icons8-css3.svg": "/static/media/icons8-css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/icons8-html-5.svg": "/static/media/icons8-html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.ff501d03.css.map": "/static/css/main.ff501d03.css.map",
+    "main.255ac318.js.map": "/static/js/main.255ac318.js.map",
+    "787.f5cd5acb.chunk.js.map": "/static/js/787.f5cd5acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff501d03.css",
+    "static/js/main.255ac318.js"
+  ]
+}
